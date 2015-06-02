@@ -1,4 +1,5 @@
-=== WDS CMB2 Date Range Field ===
+WDS CMB2 Date Range Field
+===================
 Contributors:      WebDevStudios
 Donate link:       http://webdevstudios.com
 Tags:
@@ -9,29 +10,35 @@ License:           GPLv2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
 
-== Description ==
+Description
+===================
 
 A simple way to passively build links by enabling webmasters and bloggers to embed images from your site (while linking back to you).
 
-== Installation ==
+Installation
+===================
 
-= Manual Installation =
+Manual Installation
 
 1. Upload the entire '/rs-image-hotlinked' directory to the '/wp-content/plugins/' directory.
 2. Activate WP Image Embeds through the 'Plugins' menu in WordPress.
 
-== Frequently Asked Questions ==
+Frequently Asked Questions
+===================
 
 
-== Screenshots ==
+Screenshots
+===================
 
 
-== Changelog ==
+Changelog 
+===================
 
-= 1.0 =
+1.0
 * First release
 
-== Upgrade Notice ==
+Upgrade Notice
+===================
 
-= 0.1.0 =
+0.1.0
 First Release
