@@ -1,8 +1,8 @@
-WDS CMB2 Date Range Field
+WP Image Embeds
 ===================
-Contributors:      WebDevStudios
-Donate link:       http://webdevstudios.com
-Tags:
+Contributors:      ryscript
+Donate link: 	   https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=charles@coxhead.net&currency_code=&amount=&return=&item_name=Buy+me+a+coffee+for+A+WP+Image+Embeds+Plugin+for+WordPress
+Tags:			   embed, embeds, image embed
 Requires at least: 3.6.0
 Tested up to:      4.2.0
 Stable tag:        1.0
