@@ -1,8 +1,7 @@
 WP Image Embeds
 ===================
 Contributors:      ryscript
-Donate link: 	   https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=charles@coxhead.net&currency_code=&amount=&return=&item_name=Buy+me+a+coffee+for+A+WP+Image+Embeds+Plugin+for+WordPress
-Tags:			   embed, embeds, image embed
+Tags:			   embed, embeds, image embed, image hotlinked, hotlinked, hotlink
 Requires at least: 3.6.0
 Tested up to:      4.2.0
 Stable tag:        1.0
